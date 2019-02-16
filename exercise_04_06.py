@@ -1,5 +1,5 @@
 #Solution for Exercise 6 in Chapter 4 of
-#
+#'Python for everybody: Exploring Data Using Python 3' by Charles R. Severance.
 
 hours=input('Enter hours: ')
 rate=input('Enter rate: ')
