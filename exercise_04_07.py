@@ -1,3 +1,6 @@
+#Solution to the exercise 7 in Chapter 4 of 
+#'Python for everybody: Exploring Data Using Python 3' by Charles R. Severance.
+
 x=input('Enter score: ')
 try:
     score=float(x)
