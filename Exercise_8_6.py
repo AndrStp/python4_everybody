@@ -1,3 +1,6 @@
+#Solution to the exercise 6 in Chapter 8 of 
+#'Python for everybody: Exploring Data Using Python 3' by Charles R. Severance.
+
 t = []
 
 while True:
@@ -14,4 +17,3 @@ while True:
 print(t)
 print(min(t))
 print(max(t))
-
